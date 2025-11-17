@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+
+boto3
+botocore
+
+torch
+torchvision
+pillow
+numpy
+
+prometheus-client
